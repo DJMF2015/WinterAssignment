@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ClubGUI()
+comment0.text=\r\n\ \ \ \ Constructor\ for\ mountain\ club\ application.\r\n\ \ \ \ Create\ mountain\ club\ window\ and\ set\ up\ windown\ to\ hold\ objects.\r\n
+comment1.params=
+comment1.target=void\ init()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ updateNumberField()
+comment3.text=\r\n\ method\ returns\ selected\ index\ value\ from\ arraylist\ and\ returns\ for\ display\ in\ GUI\ ouput\r\n
+numComments=4

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ readData()
+comment1.params=
+comment1.target=void\ writeData()
+comment2.params=n\ name\ phone\ address\ record\ time
+comment2.target=void\ addEntry(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=name
+comment3.target=void\ deleteEntry(java.lang.String)
+comment4.params=list
+comment4.target=void\ fillChoice(javax.swing.JComboBox)
+comment5.params=text
+comment5.target=java.lang.String\ lookupNumber(java.lang.String)
+comment6.params=text
+comment6.target=Member\ lookupMember(java.lang.String)
+comment7.params=text
+comment7.target=int\ getMemberIndex(java.lang.String)
+comment8.params=name
+comment8.target=java.lang.String\ findMember(java.lang.String)
+numComments=9
